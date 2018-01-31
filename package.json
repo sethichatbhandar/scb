@@ -1,0 +1,24 @@
+{
+  "name": "sethichatbhandar",
+  "version": "1.0.0",
+  "description": "redirecting to orignal website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethichatbhandar/scb.git"
+  },
+  "keywords": [
+    "Sethi",
+    "Chat",
+    "Bhandar"
+  ],
+  "author": "Sanheen Sethi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sethichatbhandar/scb/issues"
+  },
+  "homepage": "https://github.com/sethichatbhandar/scb#index"
+}
