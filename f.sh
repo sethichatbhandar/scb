@@ -1,6 +1,6 @@
 git status
 git add .
 git status
-git commit "Modify Link"
+git commit -m "Modify"
 git status
 git push
