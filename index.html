@@ -5,7 +5,15 @@
 </head>
 <body>
 	<script type="text/javascript">
-		window.location.href="https://2d89975e.ngrok.io";
+		var d = new Date();
+		hrs = d.getHours();
+		
+		if(hrs > 8 && hrs < 23){
+			window.location.href="https://72d2bd52.ngrok.io";
+		}
+		else{
+			document.write("Sorry , Timing : 8 AM to 11 PM");
+		}
 	</script>
 </body>
 </html>
